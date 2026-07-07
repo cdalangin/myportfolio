@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Splitsies",
+    "prize": "[MLH] Most Creative Use of Twilio - HackNYU 2023",
+    "desc": "After a fun dinner with your friends, it can be tedious trying to split the bill with everyone, especially if everyone got different things. Splitsies will make this task quick and easy.",
+    "technologies": ["HTML/CSS", "Javascript", "Expo"],
+    "github": "https://github.com/cdalangin/hacknyu2023",
+    "demo": "https://devpost.com/software/splitsies-tj4y9m",
+    "demo_label": "Devpost Submission"
+  },
+  {
+    "id": 2,
+    "name": "Github Gato",
+    "prize": "Best First Time Hack - HackNYU 2022",
+    "desc": "GitHubGato is a new and innovated way to learn and play with coding commands on GitHub.",
+    "technologies": ["React.js", "Figma"],
+    "github": "https://github.com/cdalangin/GitHubGato",
+    "demo": "https://ghgato.github.io/GitHubGato/",
+    "demo_label": "Live Site"
+  },
+  {
+    "id": 3,
+    "name": "Giv4Gud",
+    "prize": "Sprint 5 Global Finalist",
+    "desc": "A mobile app that connects individuals to local shelters so they can donate their excess items to people in need.",
+    "technologies": ["React Native", "Expo", "Google Firebase"],
+    "github": "https://github.com/MLH-Fellowship/giv4gud",
+    "demo": "https://devpost.com/software/giv4gud",
+    "demo_label": "Devpost Submission"
+  },
+  {
+    "id": 4,
+    "name": "ARTillery",
+    "prize": "Best Arts & Crafts Hack — TechTogether HobbyHacks",
+    "desc": "A cure for artist's block. Gives users a creative prompt to follow and surfaces inspiration across different styles and mediums.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/cdalangin/hobbyhacks",
+    "demo": "https://cdalangin.github.io/hobbyhacks/",
+    "demo_label": "Live Site"
+  }
+]

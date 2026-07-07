@@ -1,0 +1,86 @@
+[ 
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "org": "Mastercard",
+    "date": "2023 – 2026",
+    "type": "work",
+    "bullets": [
+      "Led end-to-end full-stack development of a global client reports platform using Typescript and Java, generating $138M in revenue ",
+      "Developed a $1M business intelligence platform using React and C#, maintaining reusable components in a validated state ",
+      "Designed and implemented standardized logging infrastructure in Splunk and Mixpanel, adopted as a shared analytical backbone across engineering teams"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Software Engineering Intern",
+    "org": "Mastercard",
+    "date": "2022",
+    "type": "internship",
+    "bullets": [
+      "Designed a customer-facing alerts feature using TypeScript and C#, driving user engagement and proactive notification workflows",
+      "Shipped production-quality components through pair programming with senior engineers",
+      "Partnered with product, UX, and QA to scope and deliver MVP features, ensuring alignment on requirements, security best practices, and release readiness"
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Engineering Intern",
+    "org": "InternHacks",
+    "date": "2021",
+    "type": "work",
+    "bullets": [
+      "Built features for a product during a competitive internship program",
+      "Collaborated remotely with a small engineering team",
+      "Presented product demos to a panel of industry mentors"
+    ]
+  },
+  {
+    "id": 4,
+    "role": "Tech Organizer",
+    "org": "TechTogether NY",
+    "date": "2021",
+    "type": "volunteer",
+    "bullets": [
+      "Helped organize one of the largest hackathons for underrepresented genders in tech",
+      "Coordinated logistics for workshops, judging, and technical infrastructure",
+      "Mentored first-time hackathon participants"
+    ]
+  },
+  {
+    "id": 5,
+    "role": "UX / Software Engineer Intern",
+    "org": "Paul Weiss — Break Through Tech",
+    "date": "2021",
+    "type": "work",
+    "bullets": [
+      "Designed and prototyped UX improvements for internal legal tools",
+      "Worked cross-functionally with attorneys and product managers",
+      "Delivered research findings and wireframes to stakeholders"
+    ]
+  },
+  {
+    "id": 6,
+    "role": "Explorer Fellow",
+    "org": "MLH Fellowship",
+    "date": "2020",
+    "type": "fellowship",
+    "bullets": [
+      "Collaborated with a global cohort of developers on open-source projects",
+      "Contributed to real-world codebases during 12-week fellowship program",
+      "Participated in workshops on software engineering best practices"
+    ]
+  },
+  {
+    "id": 7,
+    "role": "Frontend Developer Intern",
+    "org": "CodeDay",
+    "date": "2020",
+    "type": "work",
+    "bullets": [
+      "Built and shipped UI features using React for student-facing products",
+      "Collaborated with designers to translate mockups into responsive components",
+      "Participated in daily standups and agile sprint reviews"
+    ]
+  }
+]

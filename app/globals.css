@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: "Inter", system-ui, sans-serif;
+  --font-family-display: "Sora", system-ui, sans-serif;
+
+  --color-accent-50: #f3f0ff;
+  --color-accent-100: #e9e3ff;
+  --color-accent-200: #d4caff;
+  --color-accent-300: #b8aaff;
+  --color-accent-400: #a394f7;
+  --color-accent-600: #7c6fe0;
+  --color-accent-700: #6658c9;
+  --color-accent-800: #4f44a0;
+  --color-accent-900: #38307a;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: white;
+    color: var(--color-gray-900);
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-display);
+  }
+}
+
+@utility section-padding {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-padding {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+}
+
+@utility section-heading {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-family: var(--font-family-display);
+  font-weight: 600;
+  color: var(--color-gray-900);
+  margin-bottom: 0.5rem;
+}
+
+@utility section-subheading {
+  color: var(--color-gray-400);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: var(--font-family-sans);
+  margin-bottom: 1rem;
+}
