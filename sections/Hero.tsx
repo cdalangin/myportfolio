@@ -4,6 +4,7 @@ import Image from "next/image";
 import { motion, type Variants } from "framer-motion";
 import { FiGithub, FiLinkedin, FiMail } from "react-icons/fi";
 import { HiArrowUpRight } from "react-icons/hi2";
+import portrait from "../public/portrait.png";
 
 const fadeUp: Variants = {
   hidden: { opacity: 0, y: 24 },
@@ -115,7 +116,7 @@ export default function Hero() {
             <div className="w-full h-full rounded-full bg-accent-50 border border-accent-100 overflow-hidden flex items-center justify-center text-accent-300 text-6xl font-display font-semibold select-none">
               CF
               <Image
-                src="/portrait.png"
+                src={portrait}
                 alt="Cirill Florenz Dalangin"
                 fill
                 className="object-cover rounded-full"
