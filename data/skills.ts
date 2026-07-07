@@ -2,7 +2,7 @@ import {
   SiJavascript, SiTypescript, SiPython, SiHtml5, SiCss,
   SiReact, SiNextdotjs, SiTailwindcss, SiMui,
   SiNodedotjs, SiFirebase, SiGit, SiGithub, SiExpo,
-  SiFigma, SiSnowflake, SiPostgresql, SiJira, SiJenkins, SiJava, SiBootstrap, SiGithubcopilot 
+  SiFigma, SiSnowflake, SiPostgresql, SiJira, SiJenkins, SiBootstrap, SiGithubcopilot 
 } from "react-icons/si";
 import { FiPenTool, FiLayers } from "react-icons/fi";
 import { RiMicrosoftFill, RiJavaFill } from "react-icons/ri";

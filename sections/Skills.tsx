@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import categories from "@/data/skills.ts";
+import categories from "@/data/skills";
 
 export default function Skills() {
   return (
